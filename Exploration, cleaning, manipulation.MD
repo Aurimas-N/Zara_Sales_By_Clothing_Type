@@ -6,4 +6,5 @@
 * Check for outliers - Calculate minimum, and maximum values for numerical columns: =MAX(F2:F253), =min(F2:F253) etc.
 
 # Cleaning:
-
+* Checking if missing values can be filled - It was found that one row is missing two values, so it was decided to be removed, because there was not enough information to fill them, another missing value was filled by finding missing information in website.
+*
