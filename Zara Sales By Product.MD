@@ -17,7 +17,7 @@ Impact of Promotions & Seasonal Trends on Sales
 
 # Data Processing And Cleaning:
 * Data contains 253 rows.
-* [View of data exploration, cleaning and manupilation process].
+* [View of data exploration, cleaning and manupilation process](Exploration, cleaning, manipulation.MD).
 * Vizualisation developed with Tableau.
 * 
 
