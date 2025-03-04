@@ -12,5 +12,21 @@ Impact of Promotions & Seasonal Trends on Sales
 # Data Description:
 * Data is [public in Kaggle](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara/data) and released under [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 * Data is in one .csv format file and contains (83.15 kB) of information.
-* The dataset contains records of **Product ID,	Product Position,	Promotion,	Product Category,	Seasonal,	Sales Volume,	brand	url,	sku,	name,	description,	price,	currency,	scraped_at,	terms	section** coulmns.										
+* The dataset contains records of **Product ID,	Product Position,	Promotion,	Product Category,	Seasonal,	Sales Volume,	brand	url,	sku,	name,	description,	price,	currency,	scraped_at,	terms	section** coulmns.
+- `Product ID`
+- `Product Position`
+- `Promotion`
+- `Product Category`
+- `Seasonal`
+- `Sales Volume`
+- `Brand`
+- `URL`
+- `SKU`
+- `Name`
+- `Description`
+- `Price`
+- `Currency`
+- `Scraped_at`
+- `Terms`
+- `Section`
 
