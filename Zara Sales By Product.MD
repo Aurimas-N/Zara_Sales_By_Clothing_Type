@@ -7,9 +7,9 @@ Zara, founded in 1975 in Spain, is a leading fast fashion brand. Known for its q
 It operates in over 90 countries and emphasizes sustainability through eco-friendly initiatives.
 
 # Tasks:
-* Which product categories have the highest sales volume, and how does the price affect their performance?.
-* Create a Category-Level Performance Indicator with a Pivot Table
-* Prepare Data For Further Analysis.
+* Which product categories have the highest sales volume, and how does the price affect their performance?
+* Create a category-level performance indicator with a pivot table.
+* Prepare data for further analysis.
 
 # Data Description:
 * Data is [public in Kaggle](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara/data) and released under [MIT License](https://www.mit.edu/~amini/LICENSE.md).
