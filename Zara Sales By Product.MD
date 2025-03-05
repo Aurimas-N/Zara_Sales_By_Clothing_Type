@@ -7,7 +7,7 @@ Zara, founded in 1975 in Spain, is a leading fast fashion brand. Known for its q
 It operates in over 90 countries and emphasizes sustainability through eco-friendly initiatives.
 
 # Tasks:
-* Which product categories have the highest sales volume, and how does the price affect their performance?
+* Which clothing type have the highest sales volume, and how does the price affect their performance?
 * Create a category-level performance indicator that is compared by promotion with a pivot table.
 * Prepare data for further analysis.
 
