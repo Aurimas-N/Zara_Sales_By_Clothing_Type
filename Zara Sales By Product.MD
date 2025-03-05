@@ -8,6 +8,7 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 
 # Tasks:
 * Which product categories have the highest sales volume, and how does the price affect their performance?.
+* Create a Category-Level Performance Indicator with a Pivot Table
 * Prepare Data For Further Analysis.
 
 # Data Description:
