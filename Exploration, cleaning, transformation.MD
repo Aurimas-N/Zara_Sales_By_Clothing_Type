@@ -14,4 +14,6 @@
 * Changing `scraped_at` column to proper date format.
 
 # Transformation:
-* adding column 
+* Adding column `price range` with formula - `=IF(L2:L252<=50, "low", IF (L2:L252<=100, "medium", "high"))`.
+* Adding column `sales performance` with formula - `=IF(F2:F252<=1000, "low", IF(F2:F252>=2000, "medium", "high"))`.
+* Adding `column promotional flag` with formula - `=IF(C2="yes", 1, 0)`.
