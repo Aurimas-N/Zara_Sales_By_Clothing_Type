@@ -19,5 +19,5 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 # Data Processing And Cleaning:
 * [View of data exploration, cleaning and manupilation process](Exploration, cleaning, manipulation.MD).
 * Vizualisation developed with Tableau.
-* Adding 3 new columns `price range`(where low indicates price lower then 50, medium between 50 and 100 and high over 100), `sales performance` column ( low below 1000 sales, ,medium between 1000 and 2000, high over 2000), `promotion flag` column for promotion status (1 for promoted, 0 for not promoted) to easily filtering or comparing.
+* Adding 3 new columns - `price range`(where low indicates price lower then 50, medium between 50 and 100 and high over 100), `sales performance` column ( low below 1000 sales, ,medium between 1000 and 2000, high over 2000), `promotion flag` column for promotion status (1 for promoted, 0 for not promoted) to easily filtering or comparing.
 
