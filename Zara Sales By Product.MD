@@ -6,8 +6,9 @@
 Zara, founded in 1975 in Spain, is a leading fast fashion brand. Known for its quick response to trends, it offers affordable clothing, accessories, and footwear globally. With a vertically integrated supply chain, Zara efficiently designs, produces, and distributes new styles.
 It operates in over 90 countries and emphasizes sustainability through eco-friendly initiatives.
 
-# Task:
-Impact of Promotions & Seasonal Trends on Sales
+# Tasks:
+* Which product categories have the highest sales volume, and how does the price affect their performance?.
+* Prepare Data For Further Analysis.
 
 # Data Description:
 * Data is [public in Kaggle](https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara/data) and released under [MIT License](https://www.mit.edu/~amini/LICENSE.md).
