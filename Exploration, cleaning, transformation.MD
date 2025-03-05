@@ -12,3 +12,6 @@
 * Renaming column `terms` to `clothing type` for clarity.
 * Deleting column `currency` and formating column `price` to currency type.
 * Changing `scraped_at` column to proper date format.
+
+# Transformation:
+* adding column 
