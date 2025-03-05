@@ -7,4 +7,8 @@
 
 # Cleaning:
 * Checking if missing values can be filled - It was found that one row is missing two values, so it was decided to be removed, because there was not enough information to fill them, another missing value was filled by finding missing information in website.
-* 
+* Fixing all columns to have the correct data types: Using formulas - `=ISTEXT()`, `=ISNUMBER()`, `=ISDATE()` to identify.
+* Convert text to lowercase for consistency.
+* Renaming column `terms` to `clothing type` for clarity.
+* Deleting column `currency` and formating column `price` to currency type.
+* Changing `scraped_at` column to proper date format.
