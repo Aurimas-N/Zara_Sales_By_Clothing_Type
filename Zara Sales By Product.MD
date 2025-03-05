@@ -25,7 +25,7 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 # Analyze And Share:
 [Cleaned sheet and pivot table](https://docs.google.com/spreadsheets/d/1qM-US_Z5_eA7O50pTH4mnvdmK9CdFFQiH45qe5BHRhE/edit?usp=sharing) in Google Sheets, also can be seen in .csv format [cleaned table](Zara sales cleaned - zara.csv.csv) and [pivot](pivot table.csv).
 
-Tableau dashboard was created to answer question: Which clothing type have the highest sales volume, and how does the price affect their performance?
+Tableau dashboard was created to answer question - Which clothing type have the highest sales volume, and how does the price affect their performance?
 
 
 
