@@ -17,4 +17,4 @@
 * Adding column `price range` with formula - `=IF(L2:L252<=50, "low", IF (L2:L252<=100, "medium", "high"))`.
 * Adding column `sales performance` with formula - `=IF(F2:F252<=1000, "low", IF(F2:F252>=2000, "medium", "high"))`.
 * Adding column `promotional flag` with formula - `=IF(C2="yes", 1, 0)`.
-* Adding column `revenue` with formula - `
+* Adding column `revenue` with formula - `=(F3*L3)` and drag down.
