@@ -67,6 +67,17 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * Sweaters  sale volume are higher without promotion. Volume difference amount 1 680.
 * T-shirts  sale volume are higher without promotion. Volume difference amount 6 891.
 
+## Summary:
+* Price Range by Clothing Type: Jackets dominate sales across all price ranges, while jeans consistently have the lowest sales in every price range.
+* Sales Performance by Clothing Type: Jackets lead in high, medium, and low performance categories, while jeans consistently show the lowest performance across all levels.
+* Sales Volume vs. Revenue: Jackets lead in both sales volume and revenue, while jeans show the lowest sales and revenue, indicating poor performance.
+* Sales Volume by Price Range and Clothing Type: Jackets perform best in the medium price range, while jeans and sweaters have the highest sales in the low price range, and high-priced items like jeans sell the least.
+* Promotion Impact on Revenue by Price Range: Promotions boost revenue most for high-priced items, while they reduce revenue for medium and low-priced items.
+* Total Revenue by Clothing Type: Jackets generate the highest revenue, while jeans underperform significantly, contributing only a fraction of the revenue compared to other clothing types.
+* Promotion Effect on Sales Volume: Jackets, jeans, sweaters, and T-shirts sell better without promotions, while shoes benefit from promotions, showing higher sales volume when promoted.
+
+# Act:
+Recommendations from gained insights:
 
 
 
