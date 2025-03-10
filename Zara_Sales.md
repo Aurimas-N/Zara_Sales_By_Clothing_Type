@@ -8,6 +8,7 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 
 # Tasks:
 * How do clothing type, price range, and promotions influence sales performance, sales volume, and revenue?
+* Recommendations for boosting sales by clothing type and optimization of promotions.
 * Analyze category-level performance by comparing sales volume and revenue between promoted and non-promoted products with a pivot table.
 * Prepare data for further analysis.
 
