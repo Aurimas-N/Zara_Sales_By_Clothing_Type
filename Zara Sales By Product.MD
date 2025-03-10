@@ -44,7 +44,7 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * Jeans have the lowest sales volume and revenue, indicating low demand.
 
 **Sales Volume by Price Range and Clothing Type** - Helps determine whether lower or higher-priced items sell more across different clothing categories.
-* Jackets sold **most volume**(117 322)** in medium price range and **least volume(30 424)** on low price range.
+* Jackets sold **most volume(117 322)** in medium price range and **least volume(30 424)** on low price range.
 * Jeans sold **most volume(9 545)** in medium price range and **least(1 466)** on high price range.
 * Shoes sold **most volume(41 769)** in medium price range and **least(16 137)** on low price range.
 * Sweaters sold **most of volume(50 112)** in low price range and **least(3 712)** on high price range.
@@ -68,23 +68,23 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * T-shirts  sale volume are higher without promotion. Volume difference amount **6 891**.
 
 ## Summary:
-* Price Range by Clothing Type: Jackets dominate sales across all price ranges, while jeans consistently have the lowest sales in every price range.
-* Sales Performance by Clothing Type: Jackets lead in high, medium, and low performance categories, while jeans consistently show the lowest performance across all levels.
-* Sales Volume vs. Revenue: Jackets lead in both sales volume and revenue, while jeans show the lowest sales and revenue, indicating poor performance.
-* Sales Volume by Price Range and Clothing Type: Jackets perform best in the medium price range, while jeans and sweaters have the highest sales in the low price range, and high-priced items like jeans sell the least.
-* Promotion Impact on Revenue by Price Range: Promotions boost revenue most for high-priced items, while they reduce revenue for medium and low-priced items.
-* Total Revenue by Clothing Type: Jackets generate the highest revenue, while jeans underperform significantly, contributing only a fraction of the revenue compared to other clothing types.
-* Promotion Effect on Sales Volume: Jackets, jeans, sweaters, and T-shirts sell better without promotions, while shoes benefit from promotions, showing higher sales volume when promoted.
+* **Price Range by Clothing Type**: Jackets dominate sales across all price ranges, while jeans consistently have the lowest sales in every price range.
+* **Sales Performance by Clothing Type**: Jackets lead in high, medium, and low performance categories, while jeans consistently show the lowest performance across all levels.
+* **Sales Volume vs. Revenue**: Jackets lead in both sales volume and revenue, while jeans show the lowest sales and revenue, indicating poor performance.
+* **Sales Volume by Price Range and Clothing Type**: Jackets perform best in the medium price range, while jeans and sweaters have the highest sales in the low price range, and high-priced items like jeans sell the least.
+* **Promotion Impact on Revenue by Price Range**: Promotions boost revenue most for high-priced items, while they reduce revenue for medium and low-priced items.
+* **Total Revenue by Clothing Type**: Jackets generate the highest revenue, while jeans underperform significantly, contributing only a fraction of the revenue compared to other clothing types.
+* **Promotion Effect on Sales Volume**: Jackets, jeans, sweaters, and T-shirts sell better without promotions, while shoes benefit from promotions, showing higher sales volume when promoted.
 
 # Act:
 Recommendations from gained insights:
-* Promote Jackets More: Jackets are the top performers in both volume and revenue. Zara could expand the collection and focus on promoting them to maximize returns.
-* Revamp Jeans: Jeans consistently underperform. Introducing new styles or testing lower-priced options could help boost sales.
-* Try New Promotions for Medium/Low-Priced Items: Promotions don’t seem to drive revenue for medium and low-priced items. Zara should test different promo strategies like bundling or discounts.
-* Focus Promotions on Shoes: Shoes perform better with promotions. Running more seasonal or limited-time offers could drive more sales in this category.
-* Target Low-Price Items: Sweaters and T-shirts do well in the low-price range. Zara could try “Buy One, Get One Free” or limited-time deals to boost sales.
-* Highlight Medium-Price Jackets: Jackets sell best in the medium price range. Zara should feature these in marketing to attract mid-range shoppers
-* Reconsider Promotion Strategy for Jeans: Jeans do better without promotions. Zara might want to focus on improving product variety or other strategies to drive sales without discounts.
+* **Promote Jackets More**: Jackets are the top performers in both volume and revenue. Zara could expand the collection and focus on promoting them to maximize returns.
+* **Revamp Jeans**: Jeans consistently underperform. Introducing new styles or testing lower-priced options could help boost sales.
+* **Try New Promotions for Medium/Low-Priced Items**: Promotions don’t seem to drive revenue for medium and low-priced items. Zara should test different promo strategies like bundling or discounts.
+* **Focus Promotions on Shoes**: Shoes perform better with promotions. Running more seasonal or limited-time offers could drive more sales in this category.
+* **Target Low-Price Items**: Sweaters and T-shirts do well in the low-price range. Zara could try “Buy One, Get One Free” or limited-time deals to boost sales.
+* **Highlight Medium-Price Jackets**: Jackets sell best in the medium price range. Zara should feature these in marketing to attract mid-range shoppers
+* **Reconsider Promotion Strategy for Jeans**: Jeans do better without promotions. Zara might want to focus on improving product variety or other strategies to drive sales without discounts.
 
 
 
