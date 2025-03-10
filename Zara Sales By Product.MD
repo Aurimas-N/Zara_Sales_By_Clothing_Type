@@ -18,7 +18,7 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * Data is stored in **Google Sheets**.
 
 # Data Processing And Cleaning:
-* [View of data exploration, cleaning and manupilation process](./path/to/Exploration, cleaning, transformation.MD). process done in **Google Sheets**.
+* [View of data exploration, cleaning and manupilation process](Exploration, cleaning, transformation.MD). process done in **Google Sheets**.
 * Vizualisation developed with **Tableau**.
 * Adding 4 new columns - `price range`(**where low indicates price lower then 50$ and equal, medium between 50$ and 100$(equal) and high over 100$**), `sales performance` column ( **low below 1000 and equal sales, ,medium between 1000 and 2000(equal), high over 2000**), `promotion flag` column for promotion status (1 for promoted, 0 for not promoted) for easier filtering or comparing, `revenue`(sales x price).
 
