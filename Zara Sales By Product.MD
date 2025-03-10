@@ -78,6 +78,13 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 
 # Act:
 Recommendations from gained insights:
+* Promote Jackets More: Jackets are the top performers in both volume and revenue. Zara could expand the collection and focus on promoting them to maximize returns.
+* Revamp Jeans: Jeans consistently underperform. Introducing new styles or testing lower-priced options could help boost sales.
+* Try New Promotions for Medium/Low-Priced Items: Promotions don’t seem to drive revenue for medium and low-priced items. Zara should test different promo strategies like bundling or discounts.
+* Focus Promotions on Shoes: Shoes perform better with promotions. Running more seasonal or limited-time offers could drive more sales in this category.
+* Target Low-Price Items: Sweaters and T-shirts do well in the low-price range. Zara could try “Buy One, Get One Free” or limited-time deals to boost sales.
+* Highlight Medium-Price Jackets: Jackets sell best in the medium price range. Zara should feature these in marketing to attract mid-range shoppers
+* Reconsider Promotion Strategy for Jeans: Jeans do better without promotions. Zara might want to focus on improving product variety or other strategies to drive sales without discounts.
 
 
 
