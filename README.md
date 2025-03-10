@@ -9,4 +9,5 @@ This project analyzes Zara's sales performance based on clothing type, price ran
 * **Data Visualization**: Tableau
 * **Project Management**: GitHub
 ## View
-* **[Main Project Documentation]**(
+* **[Main Project Documentation]**(Zara Sales.md)
+* 
