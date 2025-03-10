@@ -55,7 +55,7 @@ Tableau dashboard was created to answer question - Which clothing types generate
 * Medium price range clothes with promotion generated less revenue.
 * Low price range clothes with promotion generated less renevue.
 
-**Total Revenue by Clothing Type ** - helps to identify top-performing categories.
+**Total Revenue by Clothing Type** - helps to identify top-performing categories.
 * Jackets generate most revenue $26 344 713.
 * Sweats, shoes and t shirts generate very simmilar revenue between ~$3 700 000-$4 090 000.
 * Jeans generate only $864 385.
