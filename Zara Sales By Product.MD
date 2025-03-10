@@ -28,4 +28,4 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 Tableau dashboard was created to answer question - Which clothing types generate the highest sales volume and revenue, and how does price impact their performance?
 ![dashboard](zara_dashboard.PNG)
 
-* **Sales Performance by Clothing Type**
+## **Sales Performance by Clothing Type**
