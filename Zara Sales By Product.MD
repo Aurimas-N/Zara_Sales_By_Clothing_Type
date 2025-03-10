@@ -25,11 +25,5 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 # Analyze And Share:
 [Cleaned sheet and pivot table](https://docs.google.com/spreadsheets/d/1qM-US_Z5_eA7O50pTH4mnvdmK9CdFFQiH45qe5BHRhE/edit?usp=sharing) in Google Sheets, also can be seen in .csv format [cleaned table]Zara sales cleaned.csv) and [pivot](pivot table.csv).
 
-Tableau dashboard was created to answer question - Which clothing types generate the highest sales volume and revenue, and how does price impact their performance??
-1. Sales Performance by Clothing Type
-2. Price Range by Clothing Type
-3.Promotion Effect on Sales Volume
-4.Average Sales Volume by Price Range and Clothing Type
-5.Total Revenue by Clothing Type (Bar Chart)
-6.Promotion Impact on Revenue by Price Range
-7.Sales Volume vs. Revenue
+Tableau dashboard was created to answer question - Which clothing types generate the highest sales volume and revenue, and how does price impact their performance?
+![dashboard](
