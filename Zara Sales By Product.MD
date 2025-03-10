@@ -35,25 +35,25 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * Most sold in low price is sweaters(50 122) and lowest in jeans(2 309).
 
 **Sales Performance by Clothing Type** - Shows which clothing types have the highest and lowest sales performance.
-* Most in high performance volume sold is and lowest is jeans.
-* Most in medium performance volume sold is jackets and lowest is jeans.
-* Most in low performance volume sold jackets and lowest is jeans.
+* Most in high performance volume sold is jackets(75 311) and lowest is jeans(7 698).
+* Most in medium performance volume sold is jackets(168 135) and lowest is jeans(4 998).
+* Most in low performance volume sold jackets(14 184) and lowest is jeans(624).
 
 **Sales Volume vs. Revenue** - Helps identify whether high-selling products also generate the most revenue.
 * Jackets have both the highest sales volume and revenue, making them the top-performing category.
 * Jeans have the lowest sales volume and revenue, indicating low demand.
 
 **Sales Volume by Price Range and Clothing Type** - Helps determine whether lower or higher-priced items sell more across different clothing categories.
-* Jackets sold most volume in medium price range and least volume on low price range.
-* Jeans sold most volume in medium price range and least on high price range.
-* Shoes sold most volume in medium price range and least on low price range.
-* Sweaters sold most of volume in low price range and least on high price range.
-* T-shirts sold most on low price range and least on high price range.
+* Jackets sold most volume(117 322) in medium price range and least volume(30 424) on low price range.
+* Jeans sold most volume(9 545) in medium price range and least(1 466) on high price range.
+* Shoes sold most volume(41 769) in medium price range and least(16 137) on low price range.
+* Sweaters sold most of volume(50 112) in low price range and least(3 712) on high price range.
+* T-shirts sold most(28 869) on low price range and least(10 509) on high price range.
 
 **Promotion Impact on Revenue by Price Range** - Examines whether promotions help increase revenue across different price ranges.
-* High price range clothes with promotiom generated more revenue.
-* Medium price range clothes with promotion generated less revenue.
-* Low price range clothes with promotion generated less renevue.
+* High price range clothes with promotiom generated more revenue. Difference of revenue $2 832 399.
+* Medium price range clothes with promotion generated less revenue. Difference of revenue $1 631 183.
+* Low price range clothes with promotion generated less renevue. Difference of revenue $438 020.
 
 **Total Revenue by Clothing Type** - helps to identify top-performing categories.
 * Jackets generate most revenue $26 344 713.
@@ -61,11 +61,11 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 * Jeans generate only $864 385.
 
 **Promotion Effect on Sales Volume** - Reveals whether promotions significantly boost sales volume and which clothing types benefit most.
-* Jackets sale volume are higher without promotion.
-* Jeans sale volume are higher without promotion.
-* Shoes sale volume are higher with promotion.
-* Sweaters  sale volume are higher without promotion.
-* T-shirts  sale volume are higher without promotion.
+* Jackets sale volume are higher without promotion. Volume difference amount 11 202.
+* Jeans sale volume are higher without promotion. Volume difference amount 3 902.
+* Shoes sale volume are higher with promotion. Volume difference amount 786.
+* Sweaters  sale volume are higher without promotion. Volume difference amount 1 680.
+* T-shirts  sale volume are higher without promotion. Volume difference amount 6 891.
 
 
 
