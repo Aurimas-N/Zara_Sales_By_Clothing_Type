@@ -30,9 +30,9 @@ It operates in over 90 countries and emphasizes sustainability through eco-frien
 ![dashboard](zara_dashboard.PNG)
 
 **Price Range by Clothing Type** - Helps understand how clothing types are distributed across different price ranges.
-* Most sold in high price range is jackets(109 884) and lowest jeans(1 466).
-* Most sold in medium price range is also jackets(117 322) and lowest jeans(9 545).
-* Most sold in low price is sweaters(50 122) and lowest in jeans(2 309).
+* Most sold in high price range is **jackets(109 884)** and lowest **jeans(1 466)**.
+* Most sold in medium price range is also **jackets(117 322)** and lowest **jeans(9 545)**.
+* Most sold in low price is **sweaters(50 122)** and lowest in **jeans(2 309)**.
 
 **Sales Performance by Clothing Type** - Shows which clothing types have the highest and lowest sales performance.
 * Most in high performance volume sold is jackets(75 311) and lowest is jeans(7 698).
