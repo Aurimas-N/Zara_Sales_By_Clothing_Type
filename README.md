@@ -10,4 +10,4 @@ This project analyzes Zara's sales performance based on clothing type, price ran
 * **Project Management**: GitHub
 ## View
 * [Main Project Documentation](Zara_Sales.md)
-* 
+* [Cleaned sheet and pivot table in Google Sheets](
