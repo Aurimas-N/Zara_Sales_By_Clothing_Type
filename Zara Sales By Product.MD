@@ -48,3 +48,24 @@ Tableau dashboard was created to answer question - Which clothing types generate
 * Shoes sold most volume in medium price range and least on low price range.
 * Sweaters sold most of volume in low price range and least on high price range.
 * T-shirts sold most on low price range and least on high price range.
+
+**Promotion Impact on Revenue by Price Range** - Examines whether promotions help increase revenue across different price ranges.
+* High price range clothes with promotiom generated more revenue.
+* Medium price range clothes with promotion generated less revenue.
+* Low price range clothes with promotion generated less renevue.
+
+**Total Revenue by Clothing Type ** - helps to identify top-performing categories.
+* Jackets generate most revenue $26 344 713.
+* Sweats, shoes and t shirts generate very simmilar revenue between ~$3 700 000-$4 090 000.
+* Jeans generate only $864 385.
+
+**Promotion Effect on Sales Volume** - Reveals whether promotions significantly boost sales volume and which clothing types benefit most.
+* Jackets sale volume are higher without promotion.
+* Jeans sale volume are higher without promotion.
+* Shoes sale volume are higher with promotion.
+* Sweaters  sale volume are higher without promotion.
+* T-shirts  sale volume are higher without promotion.
+
+
+
+
