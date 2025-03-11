@@ -1,4 +1,4 @@
-# Zara Sales By Product
+# Zara Sales
 
 ### This project was completed for practise.
 
